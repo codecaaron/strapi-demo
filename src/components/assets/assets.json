@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_assets_assets",
+  "info": {
+    "displayName": "Assets",
+    "icon": "manyToMany"
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    }
+  }
+}
